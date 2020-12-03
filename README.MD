@@ -7,4 +7,4 @@ I am not a good front-end developer nor a UX designer, but via streamlit, I coul
 
 
 Thank you streamlit. 
-### [Streamlit — The fastest way to create data apps](www.streamlit.io)
+### [Streamlit — The fastest way to create data apps](https://www.streamlit.io)
