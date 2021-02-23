@@ -1,6 +1,8 @@
 # Ho va ten: Tạ Đặng Vĩnh Phúc
 # MSSV: B1709618
 # STT: 50
+
+# Please refer to link for review: https://share.streamlit.io/vinhphuctadang/cryptoweb/review/index.py
 import streamlit as st
 import pandas as pd
 from Crypto.PublicKey import RSA
@@ -12,7 +14,6 @@ from Crypto.Cipher import DES
 
 import math
 import base64
-
 
 #
 # Class for sharing server session 
